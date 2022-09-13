@@ -1,7 +1,5 @@
 
-import './App.css';
 import './index.css';
-import Dashboard from './components/Dashboard';
 import People from './components/People';
 function App() {
   
